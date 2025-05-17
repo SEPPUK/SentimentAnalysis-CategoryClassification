@@ -1,4 +1,4 @@
-# Project Title
+# NLP - Sentiment Analysis & Category Classification
 
 Instructions and dataset download link will be added very soon. Stay tuned!
 
